@@ -18,7 +18,11 @@
 
 #### [my notion blog](https://www.notion.so/This-is-programming-page-733f00d82f3b4056979b1968675df6c0)
 
+### ✉️This is my mail✉️
+<p>sinaskim@naver.com</p>
 
+<br>
+<br>
 <p>
 <h3 >📚 Tech Stack 📚</h3>
     <p style="text-align:center">
